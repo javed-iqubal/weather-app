@@ -1,1 +1,1 @@
-# weather-app
+# Weather App: A demo application to communicate with a third party api

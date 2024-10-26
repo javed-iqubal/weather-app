@@ -1,0 +1,9 @@
+spring:
+  application:
+   name: weather-app
+geocoding:
+  url: {URL_TO_GET_LATITUDE_LONGITUDE_OF_A_SPECIFIC_CITY}
+weather:
+  url: {URL_TO_FETCH_WEATHER_OF_CITY_PASSING_ITS_LATITUDE_AND_LONGITUDE}
+api:
+  key: {API_KEY}
